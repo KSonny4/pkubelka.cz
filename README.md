@@ -1,0 +1,1 @@
+Hosted on Netlify, using Hugo.
