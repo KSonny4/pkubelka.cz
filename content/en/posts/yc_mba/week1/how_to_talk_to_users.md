@@ -36,8 +36,11 @@ TODO ENDED AT 5:50
             - Who in your company is relevant here?
         - Cold mails
             - People i know or don't know
-                - ![talk_to_users_1](talk_to_users_1.png)
-                - ![talk_to_users_2](talk_to_users_2.png)
+                - ![Talk to users 1](/images/week1/talk_to_users_1.png)
+                - ![Talk to users 2](/images/week1/talk_to_users_2.png)
+        - How to interview
+            - Video, phone, or in-person. Body language gives a lot of info
+            - Build rapport
 
     - 02 How to find your users and how to talk to them
     - 03 What questions to ask and not ask

@@ -32,6 +32,8 @@ disqusShortname = ''
 		endLevel = 4 # ToC ends at H4
 		ordered = false # generates <ul> instead of <ol>
 
+staticDir = ['static']
+
 ############################## English language ################################
 [Languages.en-gb]
   languageName = "English"
