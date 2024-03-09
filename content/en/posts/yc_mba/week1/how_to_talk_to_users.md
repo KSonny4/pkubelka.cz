@@ -41,7 +41,39 @@ TODO ENDED AT 6:10
         - How to interview
             - Video, phone, or in-person. Body language gives a lot of info
             - Build rapport
-
-    - 02 How to find your users and how to talk to them
-    - 03 What questions to ask and not ask
-    - 04 How to turn your conclusions into an
+            - **Don't introduce your product**
+              - this might bias their answers
+            - Listen, don't talk
+            - Ask open-ended questions
+            - Take notes
+        - Example interview
+            - Do you care about carbon emmisions? Yes, consultant creates PDF once a year
+            - What do you do with PDFs? Nothing, info is dense and they do not understand it
+            - Tell me more about it - Seems they need expert to let then understand the data
+        - Questions to ask potential customers
+            - Tell me how you do x today
+            - What is the hardest thing about doing x?
+            - Why is it hard?
+            - How often do you have to do x?
+            - Why is it important for your company to do x?
+            - What do you do to solve this problem yourself?
+        - If we can watch and they can show us how they solve the problem - this is the best - Ask follow up questions
+            - What do you mean by that?
+            - Can you tell me more about that?
+            - Why is that important to you?
+        - Don't ask these questions
+            - Will you use our product?
+            - Which features would make our product better?
+            - Yes/no questions
+            - How would a better product look like to you?
+            - Two questions at the same time
+    - Next steps
+        - synthesize your learnings
+        - create problem/solution hypothesis
+        - Start sketching MVP
+    - Test that the problem is valuable
+        - Are people paying money for solutions in this space today? - other companies solving this?
+        - Have you tried to solve this problem on your own? Excel? To move them from Excel, it needs to be better
+        - Some customers will always be easier than others to do research on. Selling to plumbers harder than to startups
+        - Hand the MVP to customers, don't tell them what to do and watch them. You can tell them smth like "Create a booking on Airbnb" but do not tell them how to exactly solve it
+        - Slack group or smth with customers - make them feel specials. Great way to show prototypes
