@@ -83,14 +83,7 @@ Getting back on track (avoiding bad data):
     - “Generic claims (“I usually”, "I always", "I never") 
     - Future-tense promises (“I would”, "I will")
     - Hypothetical maybes ("I might", "I could")
-
-”
-
-Excerpt From
-The Mom Test: how to talk to customers and learn if your business is a good idea when everybody is lying to you
-Rob Fitzpatrick
-This material may be protected by copyright.
-  - Dig beneath opinions, ideas, requests, and emotions
+    - Dig beneath opinions, ideas, requests, and emotions
 
 
 ### Mistakes and symptoms:
