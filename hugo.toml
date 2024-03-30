@@ -93,7 +93,7 @@ staticDir = ['static']
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Random posts at least once a month"
   name = "Petr Kubelka"
-  description = "Hi, I am Petr Kubelka! Welcome to my page."
+  description = "Hi, I am Petr Kubelka / Ksonny4 / Hugo! Welcome to my page."
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
