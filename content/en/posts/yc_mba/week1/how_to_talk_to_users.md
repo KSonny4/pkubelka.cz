@@ -7,8 +7,6 @@ draft = false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z1iF1c8w5Lg?si=IE2g4W1E2Fj9Xwar" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-TODO ENDED AT 6:10
-
 - startup ideas just does not happen on Lazy sunday morning
 - How to talk to users
     - 01 Why the best founders talk to their users throughout the lifetime of the company
