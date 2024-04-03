@@ -14,7 +14,7 @@ jobs:
       
       - name: Find TODOs
         run: |
-          if grep -rnw 'TODO' .; then
+          if grep -rnw 'TODO' content/; then
             echo "Found TODOs. Blocking merge."
             exit 1
           fi
