@@ -1,5 +1,5 @@
 +++
-title = 'Book notes: Moms; test'
+title = 'Book notes: The Mom Test'
 date = 2024-03-09T11:18:10+01:00
 draft = false
 +++
