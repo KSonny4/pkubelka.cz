@@ -59,6 +59,11 @@ staticDir = ['static']
     name = 'About'
     url = '/about/'
     weight = 30
+    [[Languages.en-gb.menu.main]]
+    pageRef="CV"
+    name = 'CV'
+    url = '/CV/' # TODO add url
+    weight = 30
   [[Languages.en-gb.menu.main]]
     pageRef="misc"
     name = 'Misc'
