@@ -62,7 +62,7 @@ staticDir = ['static']
     [[Languages.en-gb.menu.main]]
     pageRef="CV"
     name = 'CV'
-    url = '/Kubelka_Petr_CV.pdf'
+    url = '/kubelka_petr_cv.pdf'
     weight = 30
   [[Languages.en-gb.menu.main]]
     pageRef="misc"
