@@ -1,7 +1,7 @@
 +++
 title = 'Book Notes: The Art of War'
 date = 2024-05-08T19:02:11+02:00
-draft = true
+draft = false
 +++
 
 - Spies and deception used everywhere through the book.
