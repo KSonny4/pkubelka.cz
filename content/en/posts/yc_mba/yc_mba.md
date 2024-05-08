@@ -11,12 +11,13 @@ I was offered to study MBA program by my job at university. When searching what 
     
 # WEEK 0: My own - How to get and Test Startup ideas
 
-[Notes: How to get and Test Startup idea]({{< ref "/content/en/posts/yc_mba/week0/get_and_test_startup_ideas/get_and_test_startup_ideas.md" >}})
+[Notes: How to get and Test Startup idea]({{< ref "week0/get_and_test_startup_ideas/get_and_test_startup_ideas.md" >}})
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDXkpJw16os?si=IE2g4W1E2Fj9Xwar" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 # WEEK 1: Startup School 2019 Orientation: How to Talk to Users [*MBA: Business Communication, Marketing/Strategy*], How to Evaluate Startup Ideas Pt. 1 [*MBA: Marketing/Strategy*]
 
-[Notes: How to talk to users]({{< ref "/content/en/posts/yc_mba/week1/how_to_talk_to_users.md" >}})
+[Notes: How to talk to users]({{< ref "week1/how_to_talk_to_users.md" >}})
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z1iF1c8w5Lg?si=IE2g4W1E2Fj9Xwar" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Th8JoIan4dg?si=IE2g4W1E2Fj9Xwar" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
