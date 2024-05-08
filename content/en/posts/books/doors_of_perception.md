@@ -8,8 +8,8 @@ This was a very difficult audiobook to listen to because it was full of long sen
 
 For example:
 
-Modern Sentence: The house was big.
-1950s Sentence: The sprawling Victorian mansion loomed over the quaint street, its imposing façade casting a long shadow in the afternoon sun.
+- Modern Sentence: The house was big.
+- 1950s Sentence: The sprawling Victorian mansion loomed over the quaint street, its imposing façade casting a long shadow in the afternoon sun.
 
 Even though it was only a two-hour listen, I almost gave up on it.
 
