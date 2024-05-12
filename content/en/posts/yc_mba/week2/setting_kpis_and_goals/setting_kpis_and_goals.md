@@ -1,0 +1,131 @@
++++
+title = 'Setting KPIs and Goals'
+date = 2024-04-26T15:15:02+02:00
+draft = false
++++
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6DTK9yDP6p0?si=OB1DcK9aZb27hW5h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- If you are startup founder, nobody tells you how you should spend your time
+- It's not worth to optimize every metrics
+- You want to get to product market fit ASAP, prioritization is crucial
+- KPI
+    - Key performance indicator
+    - Measuring what matters
+- Prioritization
+    - Infinite things we can do each day, work is never done
+    - How i spend the day, how team spends to day
+- Prioritize tasks that move you toward your KPIs Faster
+- Choose right KPIs and be honest with ourselves
+- Don't focus on Vanity metrics
+    - Vanity metrics are data points that may seem impressive at first glance but don't necessarily provide meaningful insights into the performance of a startup or its progress toward its goals. Here are a few examples:
+        - Total Downloads/Installs: This metric might seem impressive, but it doesn't necessarily reflect active users or engagement with the product.
+        - Website Traffic: High traffic numbers might seem like a good sign, but if those visitors aren't converting into customers or engaging with the product, it's not a reliable indicator of success.
+- KPIs and prioritization are important since nobody tells you as a founder how to prioritize your time. It's easy to feel productive and not move business forward
+- Examples of feel productive and not move business forward
+    - Optimizing paperwork tasks
+    - Unnecessary perfectionism
+    - Premature optimization
+    - picking hard problem and Not building what your users want
+- It's easy to run fast in wrong direction
+- How to prioritize
+    - speed matters
+    - align iwth your cofounder 
+- Step 1: Indentify top KPIs
+    - if you launched, it should be revenue growth
+    - non revenue KPI is rarely the good one
+    - what is the KPI goal for next week
+        - E.g. get 10 customers
+    - Early growth compounds
+- Step 2: Identify biggest bottleneck
+    - SuprDaily company
+        - Aka bolt foods
+        - Top KPI
+            - Growth, bottlenecked by conversion late in the funnel
+        - Biggest problem
+            - Why are high intent users not converting?
+        - Discovered they did not have milk brand so users did not finish the order. 
+
+- Simple system to move your KPI(s)
+    - 01 Write down ideas that may help
+        - Rank & choose a few (rank few and subrank according to how long it will take)
+    - 02 If your KPI doesn't move, be honest on why
+    - 03 Do honest retros; learn and adjust course
+        - If it wasn't working, do something different
+        - If it was working, double down
+    - 04 Move fast
+        - Learn and do something differently if the stuff so far did not work. The definition of insanity is doing over and over again the same stuff and expect different results.
+        - don't let indicision to block you, just choose one path and go with it.
+- Things that should be on your list
+    - Talking to users / responding to customer support messages
+        - the only way you know what customers want is by talking with them all the time
+    - Building features you know your customers will pay for
+    - Getting users to pay for what you've built
+
+- Things that should probably not be on your list AKA fake progress
+    - Investor "coffees"
+    - Conferences
+    - Arbitrary technical milestones 
+        - AKA launching Android app unless its smth users explicitly asked for
+- Common mental traps (things that makes are feel good but does not help with Product market fit)
+    - Checking things off a list feels good (e.g. optimizing paperwork about processes)
+    - It's easy to convince yourself something is working when it's not (easy to mistake slow growth for PMF)
+    - Perfectionism and indecision are your enemy: fast decisions are good decisions
+        - Most decisions does not matter, and for those that do it's okay to decide wrong and fix it later, just keep moving
+        - Nobody make quick decisions all the time, second best option pretty good decisions quickly and if wrong, fix
+        - don't waste time on decisions that does not get you to PMF
+        - if it's a tough call, it actually probably measn you can't go wrong
+    - Mitigating downside (rather than chasing upside) can feel falsely urgent
+        - Downside risk protection is straightforward, and fixing small problems can be incredibly gratifying.
+    - Working on secondary problems instead of the existential one
+- Prioritization Recap
+    - You'll never get to everything on your task list
+    - Use KPIs to prioritize your work
+    - Be honest with yourself; fail fast
+- How to choose good KPIs
+    - Primary Metric
+        - This is the metric that unequivocally tells you if your business is working
+        - Most commonlv revenue growth
+    - Secondary Metric(s)
+        - Things that need to be tracked to make sure you're not cheating/gaming your primary metric
+        - Examples
+            - Retention/churn
+            - Unit economics
+            - Acquisition cost and payback period
+        - Vanity Metrics
+            - Amount raised
+            - Team size
+            - Office space
+            - Press hits
+            - Celebrity endorsements
+            - Instagram likes
+- Main message: Choose your primary KPIs
+- How do we set targets? How much growth is enough?
+    - 5-7% WoW (Week over Week) = good
+    - 10% WoW = exceptional
+- Early growth matters
+    - Growth rate compounds
+- Factors to consider
+    - Latent demand may boosts early growth
+    - Length of sales cycle
+    - Organic vs. paid
+    - Retention/Engagement
+- Customers that placed 5+ orders are muuuuuuch better metric than signups
+
+- when setting targets, two approaches
+    - Top down
+        - Pick a milestone/date in the future that you want/need to hit
+        - Work backwards from this for bi-weekly goals
+    - Bottoms up
+        - What is realistic for you to get done next week?
+        - Work up from this to determine a realistic future milestone
+- non-revenue kpis, might be tempting but not right
+    - CAC/LTV - customer acquisition cost / lifetime value
+        - Focus on payback period
+        - post PMF
+        - now worry at the start only at payback period
+    - Free signups / daily active users (DAUs)
+        - only exception is if your product requires a network effect
+- Exception to revenue KPIs
+    - Hard tech, rockets, biomed..
