@@ -1,5 +1,5 @@
 +++
-title = 'Setting KPIs and Goals'
+title = 'YC Startup School Notes: Setting KPIs and Goals'
 date = 2024-04-26T15:15:02+02:00
 draft = false
 +++
