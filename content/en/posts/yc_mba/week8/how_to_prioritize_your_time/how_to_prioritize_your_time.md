@@ -78,5 +78,9 @@ draft = false
     - If you are always running out of time to complete tasks, two suggestions:
         - maybe task is too big and need to be break out into smaller tasks
         - your schedule needs to be rigid a little bit
-            - [Maker's Schedule, Manager's Schedule](https://paulgraham.com/makersschedule.html)
-https://www.youtube.com/watch?v=XcCmMOWuAF4&ab_channel=YCombinator 13:52
+    - [Maker's Schedule, Manager's Schedule](https://paulgraham.com/makersschedule.html)
+        - context switching is expensive - you are wasting time. You need continious chunk of time.
+        - week divided into 2 days, coding days and meetnig days
+    - The art of moving fast = decisiveness
+        - at the beggining of your startup, you want to prove as fast as possible you are building smth users wants
+        - you should be okay to make a bad choice fast, and learn from it fast
