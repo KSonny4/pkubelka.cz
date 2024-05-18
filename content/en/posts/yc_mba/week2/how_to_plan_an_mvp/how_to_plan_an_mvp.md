@@ -1,5 +1,5 @@
 +++
-title = 'Notes: How to Plan an MVP'
+title = 'YC Startup School Notes: How to Plan an MVP'
 date = 2024-04-18T15:54:59+02:00
 draft = false
 +++
