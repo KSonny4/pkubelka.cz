@@ -1,5 +1,12 @@
 Hosted on Netlify, using Hugo.
 
+# Change format of pics and delete exif data
+
+```bash
+magick mogrify -format jpg *.heic
+exiftool -all= *.jpg
+```
+
 # References
 
 Example:
