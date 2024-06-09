@@ -20,7 +20,7 @@ def read_ignore_list(folder: Path) -> Set[str]:
     ignore_file = folder / "ignore_images"
     if ignore_file.is_file():
         with ignore_file.open('r') as file:
-            return set([f.strip() for f in file.readlines()]) + {'ignore_images'}
+            return set([f.strip() for f in file.readlines()]) | {'ignore_images'}
     return {'ignore_images'}
 
 def main() -> None:
