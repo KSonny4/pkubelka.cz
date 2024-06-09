@@ -17,9 +17,8 @@ def check_images_used(folder_path: Path, image_references: List[str]) -> Set[str
     return images_in_folder - set(image_references)
 
 def main() -> None:
-    repo_root = Path(__file__).resolve().parent.parent.parent.parent  # Adjust based on the location of the script
-    posts_path = repo_root / "content/en/posts"
-    images_path = repo_root / "static/images"
+    posts_path = "content/en/posts"
+    images_path = "static/images"
     
     folder_pattern = r'^\d{6}$'
     folders = find_folders(posts_path, folder_pattern)
