@@ -24,8 +24,8 @@ def read_ignore_list(folder: Path) -> Set[str]:
     return {'ignore_images'}
 
 def main() -> None:
-    posts_path = Path("content", "en", "posts")
-    images_path = Path("static", "images")
+    posts_path = Path("/content", "en", "posts")
+    images_path = Path("/static", "images")
     
     folder_pattern = r'^\d{6}$'
     folders = find_folders(posts_path, folder_pattern)
