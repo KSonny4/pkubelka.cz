@@ -23,6 +23,7 @@ def main() -> None:
     
     folder_pattern = r'^\d{6}$'
     folders = find_folders(posts_path, folder_pattern)
+    print(f"Found folders: {folders}")
 
     all_unused_images: Dict[str, Set[str]] = {}
 
@@ -31,6 +32,8 @@ def main() -> None:
         if md_file_path.is_file():
             image_references = get_markdown_image_references(md_file_path)
             image_references = [Path(ref).name for ref in image_references]  # Extract image names
+            print(f"Images for {folder}: {image_references}")
+
             folder_images_path = images_path / folder.name
             if folder_images_path.is_dir():
                 unused_images = check_images_used(folder_images_path, image_references)
