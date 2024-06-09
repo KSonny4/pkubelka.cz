@@ -6,6 +6,13 @@ from typing import List, Set, Dict
 def find_folders(path: Path, pattern: str) -> List[Path]: 
     return [f for f in path.iterdir() if f.is_dir() and re.match(pattern, f.name)]
 
+def find_nonexistent_image_references(folder_images_path: Path, image_references: List[str]) -> List[str]:
+    nonexistent_references = []
+    for ref in image_references:
+        if not (folder_images_path / ref).is_file():
+            nonexistent_references.append(ref)
+    return nonexistent_references
+
 def get_markdown_image_references(md_file_path: Path) -> List[str]:
     with md_file_path.open('r') as file:
         content = file.read()
@@ -44,10 +51,12 @@ def main() -> None:
             if folder_images_path.is_dir():
                 ignore_list = read_ignore_list(folder_images_path)
                 unused_images = check_images_used(folder_images_path, image_references, ignore_list)
+                nonexistent_references = find_nonexistent_image_references(folder_images_path, image_references)
+                
                 if unused_images:
                     alert_message.append(f"Unused images found in folder {folder}: {', '.join(unused_images)}")
-                elif len(image_references) > len(list(folder_images_path.glob('*'))):
-                    alert_message.append(f"More images referenced in markdown than found in folder {folder}")
+                if nonexistent_references:
+                    alert_message.append(f"References pointing to non-existent images in folder {folder}: {', '.join(nonexistent_references)}")
 
     if alert_message:
         print("Alerts:")
@@ -62,10 +71,10 @@ if __name__ == "__main__":
     main()
 
 """
-```markdown
+```
 # Image Checker
 
-The Image Checker is a Python script that helps you ensure consistency between images referenced in Markdown files and images present in corresponding folders. It alerts you when there are discrepancies such as unused images or missing references.
+The Image Checker is a Python script designed to ensure consistency between images referenced in Markdown files and images present in corresponding folders. It alerts users to discrepancies such as unused images or missing references.
 
 ## Features
 
@@ -80,17 +89,17 @@ The Image Checker is a Python script that helps you ensure consistency between i
    - Clone the repository or download the script file.
 
 2. **Setup:**
-   - Place your Markdown files in a directory structured `/content/en/posts` where each month posts is in format MMDDDD (e.g. 062025).
-   - Store your images in a directory structure similar to `/static/images` where for each post there is folder in format MMDDDD (e.g. 062025).
+   - Place your Markdown files in a directory structured `/content/en/posts` where each month's posts are in the format MMDDDD (e.g., 062025).
+   - Store your images in a similar directory structure under `/static/images`, where each post has its folder in the format MMDDDD (e.g., 062025).
 
 3. **Configuration:**
    - Optionally, create an `ignore_images` file in each image folder to specify images to ignore.
 
-4. **Run the Script:**
+4. **Running the Script:**
    - Execute the Python script `check_images.py`.
    - You can run it from the command line or integrate it into your workflow.
 
-5. **Review Alerts:**
+5. **Reviewing Alerts:**
    - The script will print alerts if it detects discrepancies between images and references.
    - Review the alerts to identify and resolve any issues.
 
