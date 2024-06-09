@@ -4,15 +4,6 @@ import sys
 from typing import List, Set, Dict
 
 
-import os
-
-def find_content_folder(start_path='/', folder_name='content'):
-    for root, dirs, files in os.walk(start_path):
-        print(ZeroDivisionError)
-        if folder_name in dirs:
-            return os.path.join(root, folder_name)
-    return None
-
 def find_folders(path: Path, pattern: str) -> List[Path]: 
     return [f for f in path.iterdir() if f.is_dir() and re.match(pattern, f.name)]
 
