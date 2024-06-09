@@ -1,7 +1,8 @@
 from pathlib import Path
 import re
 import sys
-from typing import List, Set, Dict
+from typing import List, Set
+from colorama import Fore
 
 def find_folders(path: Path, pattern: str) -> List[Path]: 
     return [f for f in path.iterdir() if f.is_dir() and re.match(pattern, f.name)]
@@ -61,9 +62,10 @@ def main() -> None:
                     alert_message.append(f"References pointing to non-existent images in folder {folder}: {', '.join(nonexistent_references)}")
 
     if alert_message:
-        print("Alerts:")
+        print()
+        print(Fore.RED + "Alerts:")
         for alert in alert_message:
-            print(alert)
+            print(Fore.RED + alert)
         sys.exit(1)
     else:
         print("No alerts.")
