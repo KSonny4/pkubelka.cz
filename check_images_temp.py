@@ -2,7 +2,7 @@ from pathlib import Path
 import re
 import sys
 from typing import List, Set, Dict
-
+# TODO delete this script should be temp
 def find_folders(path: Path, pattern: str) -> List[Path]: 
     return [f for f in path.iterdir() if f.is_dir() and re.match(pattern, f.name)]
 
