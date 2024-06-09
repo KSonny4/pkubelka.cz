@@ -3,6 +3,15 @@ import re
 import sys
 from typing import List, Set, Dict
 
+
+import os
+
+def find_content_folder(start_path='/', folder_name='content'):
+    for root, dirs, files in os.walk(start_path):
+        if folder_name in dirs:
+            return os.path.join(root, folder_name)
+    return None
+
 def find_folders(path: Path, pattern: str) -> List[Path]: 
     return [f for f in path.iterdir() if f.is_dir() and re.match(pattern, f.name)]
 
@@ -26,6 +35,16 @@ def read_ignore_list(folder: Path) -> Set[str]:
 def main() -> None:
     posts_path = Path("/content", "en", "posts")
     images_path = Path("/static", "images")
+    
+
+    c1 = find_content_folder('content')
+    c2 = find_content_folder('posts')
+    c3 = find_content_folder('content')
+    c4 = find_content_folder('images')
+    
+    print("-------------------")
+    print(c1,c2,c3,c4)
+    print("-------------------")
     
     folder_pattern = r'^\d{6}$'
     folders = find_folders(posts_path, folder_pattern)
