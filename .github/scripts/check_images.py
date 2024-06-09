@@ -51,7 +51,7 @@ def main() -> None:
             if folder_images_path.is_dir():
                 ignore_list = read_ignore_list(folder_images_path)
                 print(f"Ignore list for {folder}: {ignore_list}")
-                print(f"Images in folder: {folder_images_path}")
+                print(f"Images in {folder}: {folder_images_path}")
                 unused_images = check_images_used(folder_images_path, image_references, ignore_list)
                 nonexistent_references = find_nonexistent_image_references(folder_images_path, image_references)
                 
