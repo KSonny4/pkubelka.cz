@@ -3,10 +3,10 @@ name: Check that all images in static/images are used in months post
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   check_images:
