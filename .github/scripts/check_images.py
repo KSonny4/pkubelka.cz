@@ -46,7 +46,7 @@ def main() -> None:
                 unused_images = check_images_used(folder_images_path, image_references, ignore_list)
                 if unused_images:
                     alert_message.append(f"Unused images found in folder {folder}: {', '.join(unused_images)}")
-                elif len(image_references) > len(folder_images_path.glob('*')):
+                elif len(image_references) > len(list(folder_images_path.glob('*'))):
                     alert_message.append(f"More images referenced in markdown than found in folder {folder}")
 
     if alert_message:
