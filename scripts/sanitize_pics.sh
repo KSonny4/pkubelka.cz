@@ -18,7 +18,6 @@ fi
 convert_and_delete_heic() {
     find "$TARGET_DIR" -type f \( -iname "*.heic" -o -iname "*.HEIC" \) | while read -r file; do
         magick mogrify -format jpg "$file"
-        # rm "$file" # TODO chci tohle?
     done
 }
 
@@ -27,8 +26,13 @@ remove_exif_data() {
     exiftool -r -all= -ext jpg -ext jpeg -ext png "$TARGET_DIR"
 }
 
+remove_originals() {
+    fd  "$TARGET_DIR" '_original' -x rm
+}
+
 # Run the functions
 convert_and_delete_heic
 remove_exif_data
+remove_originals
 
 echo "Conversion and EXIF removal complete."
