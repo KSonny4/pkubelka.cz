@@ -25,3 +25,6 @@ share as embedded
 # Spotify
 
 share as embedded
+
+# Strava
+
