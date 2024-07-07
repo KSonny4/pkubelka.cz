@@ -19,3 +19,10 @@ Lessons:
 - when a leader thinks his troops understand the bigger picture, they very often have difficulty connecting the dots between the tactical mission they are immersed in with the greater overarching goal.
 - But there was, and is, a dichotomy in the strict discipline we followed. Instead of making us more rigid and unable to improvise, this discipline actually made us more flexible, more adaptable, and more efficient.
 - Every leader must walk a fine line. That’s what makes leadership so challenging. Just as discipline and freedom are opposing forces that must be balanced, leadership requires finding the equilibrium in the dichotomy of many seemingly contradictory qualities, between one extreme and another. The simple recognition of this is one of the most powerful tools a leader has. With this in mind, a leader can more easily balance the opposing forces and lead with maximum effectiveness.
+
+Extreme Ownership
+
+Title: Extreme Ownership: How U.S. Navy SEALs Lead and Win
+Authors: Jocko Willink and Leif Babin
+ISBN10: 1250183863
+ISBN13: 9781250183866

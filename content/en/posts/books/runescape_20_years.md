@@ -16,3 +16,10 @@ draft = false
   “The group wasn’t huge but it just gave an indication that there was something in the idea.”  
 - We’d learnt a lot from the removal of the Wilderness and free trading. If players don’t understand why you’re doing something, they will never latch onto the solutions
 - Around this time, Jagex hired a data analyst to help the company better understand RuneScape. They wrote a system that could record everything that was done in-game, but after 10 minutes they had to turn it off because they’d already gathered 2TB of data
+
+RuneScape
+
+Title: RuneScape: The First 20 Years - An Illustrated History
+Author: Alex Calvin
+ISBN10: 0744029993
+ISBN13: 9780744029996

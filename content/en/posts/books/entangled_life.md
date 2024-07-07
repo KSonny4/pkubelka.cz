@@ -22,4 +22,9 @@ Entangled Life by Merlin Sheldrake delves into the fascinating world of fungi, r
 
 * **Fungi and the Future:**  Fungi are being explored for various applications -  bioremediation (cleaning up pollution), creating sustainable building materials, and even developing new food sources. 
 
-These are just a few of the many fascinating discoveries about fungi in Entangled Life. The book sheds light on the crucial role these organisms play in the environment and challenges our understanding of the interconnectedness of life on Earth.     
+These are just a few of the many fascinating discoveries about fungi in Entangled Life. The book sheds light on the crucial role these organisms play in the environment and challenges our understanding of the interconnectedness of life on Earth.
+
+Title: Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures
+Author: Merlin Sheldrake
+ISBN10: 1784708275
+ISBN13: 9781784708276

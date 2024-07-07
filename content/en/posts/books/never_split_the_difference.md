@@ -33,3 +33,10 @@ By strategically using silence and labels, you can encourage the other party to 
 - Odd, specific numbers (e.g., $37,621) seem more calculated and thought-out.
 - Psychologically, the odd number feels like it was arrived at through careful analysis, making it a less movable target for the other negotiator. It anchors the negotiation at a specific point that you've established through deliberate consideration.
 - So, next time you're negotiating a salary, a price, or any other quantifiable term, consider using an odd number to strengthen your position.
+
+Never Split the Difference
+
+Title: Never Split the Difference: Negotiating As If Your Life Depended On It
+Author: Chris Voss with Tahl Raz
+ISBN10: 0062407805
+ISBN13: 9780062407802

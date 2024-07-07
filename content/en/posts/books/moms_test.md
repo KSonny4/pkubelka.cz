@@ -203,3 +203,10 @@ Getting back on track (avoiding bad data):
   
 ### The big prep question:
   - “What do we want to learn from these guys?”
+
+The Mom Test
+
+Title: The Mom Test: How to Talk to Customers & Learn If Your Business is a Good Idea when Everyone is Lying to You
+Author: Rob Fitzpatrick
+ISBN10: 1492180742
+ISBN13: 9781492180746
