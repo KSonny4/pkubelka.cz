@@ -18,3 +18,10 @@ Huxley describes the profound impact mescaline had on his senses, particularly v
 Huxley claims to have had no imagination and that artists can see the world in colors in a way that he needed mescaline to achieve. I'm not sure if this statement is entirely true, or if artists really see the world that vividly.
 
 What struck me most was the author's awareness of the harmfulness of alcohol and nicotine, even in the 1950s.
+
+The Doors of Perception
+
+Title: The Doors of Perception
+Author: Aldous Huxley
+ISBN10: 0060900075
+ISBN13: 9780060900076
