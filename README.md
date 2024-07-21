@@ -6,7 +6,7 @@ Hosted on Netlify, using Hugo.
 magick mogrify -format jpg '*.heic' '*.HEIC'
 rm -rf *heic
 exiftool -all= -ext jpg -ext jpeg -ext png .
-rm -rf *.jp[e]*g_original
+find . -type f -name '*original*' -exec rm -rf {} \;
 ```
 
 # References
